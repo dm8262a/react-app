@@ -8,7 +8,7 @@ export default function App() {
 
       <Weather />
       <br />
-      <h6>
+      <h4>
         <div>
           <small class="coder-details">
             <a
@@ -21,7 +21,7 @@ export default function App() {
             by Daniela Mojica
           </small>
         </div>
-      </h6>
+      </h4>
     </div>
   );
 }
