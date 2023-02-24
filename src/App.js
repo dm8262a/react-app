@@ -12,7 +12,7 @@ export default function App() {
         <div>
           <small class="coder-details">
             <a
-              href="https://github.com/dm8262a/portfolio-project-responsive"
+              href="https://github.com/dm8262a/react-app"
               target="blank"
               class="github-lik"
             >
